@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kits-exam/static/css/main.993b8713.css",
+    "main.js": "/kits-exam/static/js/main.dd727615.js",
+    "index.html": "/kits-exam/index.html",
+    "main.993b8713.css.map": "/kits-exam/static/css/main.993b8713.css.map",
+    "main.dd727615.js.map": "/kits-exam/static/js/main.dd727615.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.993b8713.css",
+    "static/js/main.dd727615.js"
+  ]
+}
